@@ -6,4 +6,6 @@ Interesting things about this project include the out-of-the-box solution used t
 
 Each sequence was first labelled using a random forest classifier. Then the sequences were chained together. Each sequence then 'voted' for the classification of the entire chain which then overruled each individual sequence's original labels.
 
+EDA and a more detailed summary to follow.
+
 **Keywords:** Python / Time Series / Scikit Learn / Random Forest
